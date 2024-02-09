@@ -50,7 +50,7 @@ Certainly! Here's a table summarizing the accuracy values for each dataset with 
 |         | Decision Trees | 0.921    |
 | ICICI   | KNN            | 0.976    |
 |         | SVM            | 0.978    |
-|         | Decision Trees | 0.947    |
+|         | Decision Trees | 0.946    |
 
 These accuracy values provide insights into the performance of each algorithm for each dataset.
 
